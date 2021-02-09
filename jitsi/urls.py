@@ -4,6 +4,6 @@ from .views import  JitsiMeetView
 app_name = "jitsi"
 
 urlpatterns = [
-    path('meet/', JitsiMeetView, name='jitsimeet')
+    path('', JitsiMeetView, name='jitsimeet')
 
 ]
