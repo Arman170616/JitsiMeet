@@ -22,4 +22,6 @@ const options = {
 };
 const api = new JitsiMeetExternalAPI(domain, options);
 
+Please Check Jitsi Official Docx.
+
 https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe
